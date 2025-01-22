@@ -1,4 +1,4 @@
-WELCOME
+WELCOME 
 --------------------------------------------------------------------------------
 Congratulations, you opened the README.txt file! You're well on your way to
 becoming a command line ninja.
